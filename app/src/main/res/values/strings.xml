@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">TOXO BOTONERA</string>
+    <string name="title_activity_main">TOXO BOTONERA</string>
+
+    <string name="s_bauty_tarde"><b>Bauty se copia del turco</b></string>
+    <string name="s_gabo_para_nada"><b>Gabo en pedo</b></string>
+    <string name="s_lauty_sos_chileno"><b>Lauty sos un chileno</b></string>
+    <string name="s_duro_diamante"><b>Mas duro que el diamante</b></string>
+    <string name="s_murloc"><b>Blgrlgr</b></string>
+    <string name="s_punta_lauty_humo_corto"><b>Lauty humo corto</b></string>
+    <string name="s_punta_lauty_humo_largo"><b>Lauty humo largo</b></string>
+    <string name="s_turco_bardo_mati"><b>Turco bardea a mati</b></string>
+    <string name="s_turco_y_facu"><b>Turco ve a facu</b></string>
+    <string name="s_turco_tarde_1"><b>Turco tarde a futbol 1</b></string>
+    <string name="s_turco_tarde_2"><b>Turco tarde a futbol 2</b></string>
+    <string name="s_turco_tarde_3"><b>Turco tarde a futbol 3</b></string>
+    <string name="s_turco_tarde_4"><b>Turco tarde a futbol 4</b></string>
+
+    <string-array name="bardos">
+        <item>nah vieja, no te paso el sonido</item>
+        <item>te paso el sonido cuando edu blanco pague lo que debe</item>
+        <item>cuando edu haga el toxoteam te paso el audio</item>
+        <item>primero que Juan meta una materia, despues te paso el audio</item>
+        <item>dejen de hacerle bowling a lauty</item>
+        <item>este audio se bloquea si el negro se esta comiendo un traba</item>
+        <item>sos puto y cagon, no te paso el audio</item>
+        <item>nuevo encuentro no es K, lo juro</item>
+        <item>apreta la barra para cambiar el fondo</item>
+        <item>mantene apretada la barra para apreciar los paints</item>
+    </string-array>
+
+    <string-array name="desaparecen_botones">
+        <item>dale manco, se te escapan los botones</item>
+        <item>GG EASY</item>
+        <item>esta aplicacion esta llena de bugs</item>
+    </string-array>
+
+    <string name="devolver_botones">toma cagon, aca estan tus putos botones</string>
+
+    <string name="te_queres_ir">Dale maquinola, te quedas un rato mas?</string>
+    <string name="me_voy">Soy puto y me voy</string>
+    <string name="no_me_voy">Me la banco y me quedo</string>
+    <string name="te_quedas_aca">no macho, te vas cuando yo lo digo</string>
+</resources>
